@@ -1,0 +1,5 @@
+\contentsline {section}{\numberline {1}Detecting Harmonics in Noisy Data}{3}{section.1}%
+\contentsline {section}{\numberline {2}Signal Interpolation Using DFT}{4}{section.2}%
+\contentsline {section}{\numberline {3}References}{5}{section.3}%
+\contentsline {section}{\numberline {4}Github Repository}{5}{section.4}%
+\contentsline {section}{\numberline {5}Appendix}{6}{section.5}%
